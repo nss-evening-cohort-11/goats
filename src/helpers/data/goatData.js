@@ -220,3 +220,7 @@ const goats = [
     age: 1,
   },
 ];
+
+const getGoats = () => goats;
+
+export default { getGoats };
